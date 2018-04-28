@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".modules.onboarding.OnboardingActivity"
+        <activity android:name=".modules.onboarding.views.OnboardingActivity"
             android:screenOrientation="portrait"/>
 
     </application>
